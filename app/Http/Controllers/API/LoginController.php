@@ -1,5 +1,5 @@
 <?php
-
+//APENAS PARA SABER COMO CRIAR LOGIN, MAS NÃO ESTA SENDO USADO NA API
 namespace App\Http\Controllers\API;
 
 use App\Http\Controllers\Controller;
